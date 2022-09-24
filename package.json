@@ -5,7 +5,7 @@
   "main": "functions/api.js",
   "scripts": {
     "start": "netlify-lambda serve src",
-    "build": "netlify-lambda build dist"
+    "build": "netlify-lambda build src"
   },
   "author": "Mayur_keswani",
   "license": "ISC",
